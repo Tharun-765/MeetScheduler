@@ -1,0 +1,8 @@
+{
+  "name": "Meeting Bot Backend",
+  "description": "Java Spring Boot models and scheduling engine algorithm for an auto-negotiating meeting bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
